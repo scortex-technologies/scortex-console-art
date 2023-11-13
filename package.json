@@ -1,0 +1,27 @@
+{
+  "name": "@scortex/scortex-console-art",
+  "version": "1.0.0",
+  "description": "Built for internal use by SCORTEX Technologies, the 'SCORTEX Console Art' npm package adds a branding to the projects web-developer console. Display our company's logo and contact information seamlessly within the developer console in production environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scortex-technologies/scortex-console-art.git"
+  },
+  "type": "module",
+  "keywords": [
+    "scortex"
+  ],
+  "author": "SCORTEX Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scortex-technologies/scortex-console-art/issues"
+  },
+  "homepage": "https://github.com/scortex-technologies/scortex-console-art#readme",
+  "dependencies": {
+    "scortex-console-art": "^1.0.0"
+  },
+  "devDependencies": {}
+}
